@@ -1,4 +1,4 @@
-Event name: Rat Bites Flesh
+Event name: Bauble Bait
 
 Participants by role:
 	- the initial victim(s)
