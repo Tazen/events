@@ -12,13 +12,14 @@ Participants by name:
 
 TODO before:
 	- Morph
-	- Setskill (300 armor, melle, CW)
+	- Setskill (300 armor, melle, bdev)
+	- healing potions
 
 TODO after:
 	- Rewards
 
 Plot:
-	For some several days the rat will pop up at random timing in the sewers. It'll bite random players and run off. Some day when Kyy falls victim (feeding her pet grendols) she loses a precious thing to her. She will go back and ask players for help also reporting the rat has a fondness for shiny things. The players will be presented with a choice (by themselves or with Kyy's help) to either kill the rat or try to sevvvvt a trap to capture it alive. IF captured, the rat will lead them back to its nest wher Kyy finds her item and players their rewards. If rat gets killed, they only get PPs and little money.
+	For some several days the rat will pop up at random timing in the sewers. It'll bite random players and run off. Some day when Kyy falls victim (feeding her pet grendols) she loses a precious thing to her. She will go back and ask players for help also reporting the rat has a fondness for shiny things. The players will be presented with a choice (by themselves or with Kyy's help) to either kill the rat or try to set a trap to capture it alive. IF captured, the rat will lead them back to its nest where Kyy finds her item and players their rewards. If rat gets killed, they only get PPs and little money.
 
 Dialogues:
 	/me attemtps to run on $target from behind.
